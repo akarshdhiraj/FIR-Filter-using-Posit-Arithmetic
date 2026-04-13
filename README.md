@@ -1,0 +1,2 @@
+# FIR-Filter-using-Posit-Arithmetic
+• Designed a Finite Impulse Response (FIR) Filter using DSP techniques and Posit Arithmetic. • Enhanced numerical precision and reduced quantization error for EEG signal processing. • Demonstrated improved signal clarity over conventional IEEE floating-point arithmetic. DSP,  MATLAB / Simulink,  Verilog / VHDL,  Signal Processing,  Posit Arithmetic
